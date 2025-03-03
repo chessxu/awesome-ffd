@@ -24,7 +24,7 @@ This is a list of awesome method used in face forgery detection, as well as a co
 
 
 ### 2023
-- Evading Deepfake Detectors via Adversarial Statistical Consistency (**CVPR 2023**) [[paper](https://arxiv.org/pdf/2304.11670)]
+- Implicit Identity Leakage: The Stumbling Block to Improving Deepfake Detection Generalization (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Dong_Implicit_Identity_Leakage_The_Stumbling_Block_to_Improving_Deepfake_Detection_CVPR_2023_paper.pdf)]
 
 
 
