@@ -1,30 +1,25 @@
-# Awesome Ffd [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-> a list of awesome method used in face forgery detection
+# Awesome ffd [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
-## Contents
+## Introduction
 
-- [Section](#section)
-- [Another Section](#another-section)
+This is a list of awesome method used in face forgery detection, as well as a collection of plug and play modules. Due to limited ability and energy, many modules may not be included. If you have any suggestions or improvements, welcome to submit an [issue](https://github.com/chessxu/awesome-ffd/issues).
 
-
-## Section
-
-About this section. Optional. Keep this short and focus on the list.
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+## Survey
 
 
-## Another Section
 
-### Subsection
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+## Papers
+
+### 2025
+
+### 2024
+- Adapter based Incremental Learning for Face Forgery Detection (**ICASSP 2024**) [[paper](https://ieeexplore.ieee.org/abstract/document/10446543)]
+
+### 2023
 
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! If you know of any awesome method used in face forgery detection, please add them in the issues.
