@@ -19,6 +19,7 @@ This is a list of awesome method used in face forgery detection, as well as a co
 - Adapter based Incremental Learning for Face Forgery Detection (**ICASSP 2024**) [[paper](https://ieeexplore.ieee.org/abstract/document/10446543)]
 
 
+
 ### 2023
 
 
