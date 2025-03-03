@@ -8,8 +8,7 @@ This is a list of awesome method used in face forgery detection, as well as a co
 ## Survey
 <!-- - XXX survey (**XX journal or conference**) [[paper](link)] -->
 - DeepFakes and Beyond: A Survey of Face Manipulation and Fake Detection (**Information Fusion 2020**) [[paper](https://arxiv.org/pdf/2001.00179v1)]
-- Deepfake Detection: A Systematic Literature Review（**IEEE Access 2022**）[[paper]
-(https://ieeexplore.ieee.org/document/9721302)]
+- Deepfake Detection: A Systematic Literature Review (**IEEE Access 2022**)[[paper](https://ieeexplore.ieee.org/document/9721302)]
 
 
 
