@@ -27,6 +27,7 @@ This is a list of awesome method used in face forgery detection, as well as a co
 - Implicit Identity Leakage: The Stumbling Block to Improving Deepfake Detection Generalization (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Dong_Implicit_Identity_Leakage_The_Stumbling_Block_to_Improving_Deepfake_Detection_CVPR_2023_paper.pdf)][[code](https://github.com/megvii-research/CADDM)]
 - Implicit Identity Driven Deepfake Face Swapping Detection (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Implicit_Identity_Driven_Deepfake_Face_Swapping_Detection_CVPR_2023_paper.pdf)]
 - TruFor: Leveraging All-Round Clues for Trustworthy Image Forgery Detection and Localization (**CVPR 2023**) [[paper](https://ieeexplore.ieee.org/abstract/document/10205460)][[code](https://grip-unina.github.io/TruFor/)]
+- Learning on Gradients: Generalized Artifacts Representation for GAN-Generated Images Detection (**CVPR 2023**) [[paper](https://ieeexplore.ieee.org/document/10203908)][[code](https://github.com/chuangchuangtan/LGrad)]
 
 
 
