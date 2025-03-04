@@ -10,7 +10,8 @@ This is a list of awesome method used in face forgery detection, as well as a co
 - DeepFakes and Beyond: A Survey of Face Manipulation and Fake Detection (**Information Fusion 2020**) [[paper](https://arxiv.org/pdf/2001.00179v1)]
 - On the robustness of face recognition algorithms against attacks and bias (**AAAI 2020**) [[paper](https://arxiv.org/abs/2002.02942)]
 - The creation and detection of deepfakes: A survey (**CSUR 2021**) [[paper](https://dl.acm.org/doi/10.1145/3425780)]
-- Deepfake Detection: A Systematic Literature Review (**IEEE Access 2022**)[[paper](https://ieeexplore.ieee.org/document/9721302)]
+- Deepfake Detection: A Systematic Literature Review (**IEEE Access 2022**) [[paper](https://ieeexplore.ieee.org/document/9721302)]
+- Evolving from Single-modal to Multi-modal Facial Deepfake Detection: A Survey (**Preprint 2024**) [[paper](https://arxiv.org/abs/2406.06965)]
 
 
 
@@ -18,11 +19,14 @@ This is a list of awesome method used in face forgery detection, as well as a co
 ## Papers
 
 ### 2025
+- DeepFake-Adapter: Dual-Level Adapter for DeepFake Detection (**IJCV 2025**) [[paper](https://arxiv.org/pdf/2306.00863v1)] [[code](https://github.com/rshaojimmy/deepfake-adapter)]
+
 
 ### 2024
 <!--  - XXX (**XX**) [[paper](XX)] [[code](XXX)] -->
 - Adapter based Incremental Learning for Face Forgery Detection (**ICASSP 2024**) [[paper](https://ieeexplore.ieee.org/abstract/document/10446543)]
 - Deepfake Catcher: Can a Simple Fusion be Effective and Outperform Complex DNNs? (**CVPR 2024**) [[paper](https://ieeexplore.ieee.org/document/10678396)]
+- LAA-Net: Localized Artifact Attention Network for Quality-Agnostic and Generalizable Deepfake Detection (**CVPR 2024**) [[paper](https://arxiv.org/pdf/2401.13856)] [[code](https://github.com/10Ring/LAA-Net)]
 
 
 
