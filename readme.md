@@ -19,7 +19,7 @@ This is a list of awesome method used in face forgery detection, as well as a co
 ## Papers
 
 ### 2025
-- DeepFake-Adapter: Dual-Level Adapter for DeepFake Detection (**IJCV 2025**) [[paper](https://arxiv.org/pdf/2306.00863v1)] [[code](https://github.com/rshaojimmy/deepfake-adapter)]
+
 
 
 ### 2024
@@ -27,6 +27,7 @@ This is a list of awesome method used in face forgery detection, as well as a co
 - Adapter based Incremental Learning for Face Forgery Detection (**ICASSP 2024**) [[paper](https://ieeexplore.ieee.org/abstract/document/10446543)]
 - Deepfake Catcher: Can a Simple Fusion be Effective and Outperform Complex DNNs? (**CVPR 2024**) [[paper](https://ieeexplore.ieee.org/document/10678396)]
 - LAA-Net: Localized Artifact Attention Network for Quality-Agnostic and Generalizable Deepfake Detection (**CVPR 2024**) [[paper](https://arxiv.org/pdf/2401.13856)] [[code](https://github.com/10Ring/LAA-Net)]
+- DeepFake-Adapter: Dual-Level Adapter for DeepFake Detection (**IJCV 2024**) [[paper](https://arxiv.org/pdf/2306.00863v1)] [[code](https://github.com/rshaojimmy/deepfake-adapter)]
 
 
 
@@ -36,6 +37,7 @@ This is a list of awesome method used in face forgery detection, as well as a co
 - Implicit Identity Driven Deepfake Face Swapping Detection (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Implicit_Identity_Driven_Deepfake_Face_Swapping_Detection_CVPR_2023_paper.pdf)]
 - TruFor: Leveraging All-Round Clues for Trustworthy Image Forgery Detection and Localization (**CVPR 2023**) [[paper](https://ieeexplore.ieee.org/abstract/document/10205460)] [[code](https://grip-unina.github.io/TruFor/)]
 - Learning on Gradients: Generalized Artifacts Representation for GAN-Generated Images Detection (**CVPR 2023**) [[paper](https://ieeexplore.ieee.org/document/10203908)] [[code](https://github.com/chuangchuangtan/LGrad)]
+- UCF: Uncovering Common Features for Generalizable Deepfake Detection (**ICCV 2023**) [[paper](https://arxiv.org/pdf/2304.13949v1)] [[code](https://github.com/SCLBD/DeepfakeBench)]
 
 
 ## Contribute
