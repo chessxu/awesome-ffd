@@ -28,6 +28,7 @@ This is a list of awesome method used in face forgery detection, as well as a co
 - Deepfake Catcher: Can a Simple Fusion be Effective and Outperform Complex DNNs? (**CVPR 2024**) [[paper](https://ieeexplore.ieee.org/document/10678396)]
 - LAA-Net: Localized Artifact Attention Network for Quality-Agnostic and Generalizable Deepfake Detection (**CVPR 2024**) [[paper](https://arxiv.org/pdf/2401.13856)] [[code](https://github.com/10Ring/LAA-Net)]
 - DeepFake-Adapter: Dual-Level Adapter for DeepFake Detection (**IJCV 2024**) [[paper](https://arxiv.org/pdf/2306.00863v1)] [[code](https://github.com/rshaojimmy/deepfake-adapter)]
+- LDFnet: Lightweight Dynamic Fusion Network for Face Forgery Detection by Integrating Local Artifacts and Global Texture Information [[paper](https://ieeexplore.ieee.org/document/10163252)]
 
 
 
