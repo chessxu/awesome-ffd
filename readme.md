@@ -38,6 +38,7 @@ This is a list of awesome method used in face forgery detection, as well as a co
 - TruFor: Leveraging All-Round Clues for Trustworthy Image Forgery Detection and Localization (**CVPR 2023**) [[paper](https://ieeexplore.ieee.org/abstract/document/10205460)] [[code](https://grip-unina.github.io/TruFor/)]
 - Learning on Gradients: Generalized Artifacts Representation for GAN-Generated Images Detection (**CVPR 2023**) [[paper](https://ieeexplore.ieee.org/document/10203908)] [[code](https://github.com/chuangchuangtan/LGrad)]
 - UCF: Uncovering Common Features for Generalizable Deepfake Detection (**ICCV 2023**) [[paper](https://arxiv.org/pdf/2304.13949v1)] [[code](https://github.com/SCLBD/DeepfakeBench)]
+- Learning Patch-Channel Correspondence for Interpretable Face Forgery Detection (**IEEE Transactions on Image Processing 2023**) [[paper](https://ieeexplore.ieee.org/document/10050168)] [[code](https://github.com/Jae35/IFFD)]
 
 
 ## Contribute
