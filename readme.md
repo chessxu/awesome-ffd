@@ -29,6 +29,7 @@ This is a list of awesome method used in face forgery detection, as well as a co
 - LAA-Net: Localized Artifact Attention Network for Quality-Agnostic and Generalizable Deepfake Detection (**CVPR 2024**) [[paper](https://arxiv.org/pdf/2401.13856)] [[code](https://github.com/10Ring/LAA-Net)]
 - DeepFake-Adapter: Dual-Level Adapter for DeepFake Detection (**IJCV 2024**) [[paper](https://arxiv.org/pdf/2306.00863v1)] [[code](https://github.com/rshaojimmy/deepfake-adapter)]
 - LDFnet: Lightweight Dynamic Fusion Network for Face Forgery Detection by Integrating Local Artifacts and Global Texture Information (**TCSVT 2024**) [[paper](https://ieeexplore.ieee.org/document/10163252)]
+- DIFLD: domain invariant feature learning to detect low-quality compressed face forgery images (**Complex & Intelligent Systems 2024**) [[paper](https://link.springer.com/article/10.1007/s40747-023-01160-x)]
 
 
 
@@ -40,6 +41,9 @@ This is a list of awesome method used in face forgery detection, as well as a co
 - Learning on Gradients: Generalized Artifacts Representation for GAN-Generated Images Detection (**CVPR 2023**) [[paper](https://ieeexplore.ieee.org/document/10203908)] [[code](https://github.com/chuangchuangtan/LGrad)]
 - UCF: Uncovering Common Features for Generalizable Deepfake Detection (**ICCV 2023**) [[paper](https://arxiv.org/pdf/2304.13949v1)] [[code](https://github.com/SCLBD/DeepfakeBench)]
 - Learning Patch-Channel Correspondence for Interpretable Face Forgery Detection (**TIP 2023**) [[paper](https://ieeexplore.ieee.org/document/10050168)] [[code](https://github.com/Jae35/IFFD)]
+- FCD-Net: Learning to Detect Multiple Types of Homologous Deepfake Face Images (**TIFS 2023**) [[paper](https://ieeexplore.ieee.org/document/10106503)]
+- Multi-level feature disentanglement network for cross-dataset face forgery detection (**Image and Vision Computing 2023**) [[paper](https://www.sciencedirect.com/science/article/pii/S0262885623000604)]
+
 
 
 ## Contribute
