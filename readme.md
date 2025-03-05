@@ -44,6 +44,9 @@ This is a list of awesome method used in face forgery detection, as well as a co
 - Learning Patch-Channel Correspondence for Interpretable Face Forgery Detection (**TIP 2023**) [[paper](https://ieeexplore.ieee.org/document/10050168)] [[code](https://github.com/Jae35/IFFD)]
 - FCD-Net: Learning to Detect Multiple Types of Homologous Deepfake Face Images (**TIFS 2023**) [[paper](https://ieeexplore.ieee.org/document/10106503)]
 - Multi-level feature disentanglement network for cross-dataset face forgery detection (**Image and Vision Computing 2023**) [[paper](https://www.sciencedirect.com/science/article/pii/S0262885623000604)]
+- Towards Generalizable Deepfake Detection by Primary Region Regularization (**Preprint 2023**) [[paper](https://arxiv.org/abs/2307.12534)]
+- Locate and Verify: A Two-Stream Network for Improved Deepfake Detection (**Preprint 2023**) [[paper](https://arxiv.org/pdf/2309.11131)] [[code](https://github.com/sccsok/Locate-and-Verify)]
+- DFIL: Deepfake Incremental Learning by Exploiting Domain-invariant Forgery Clues (**ACM MM 2023**) [[paper](https://arxiv.org/pdf/2309.11131)] [[code](https://github.com/DeepFakeIL/DFIL)]
 
 
 
