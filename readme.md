@@ -30,6 +30,7 @@ This is a list of awesome method used in face forgery detection, as well as a co
 - DeepFake-Adapter: Dual-Level Adapter for DeepFake Detection (**IJCV 2024**) [[paper](https://arxiv.org/pdf/2306.00863v1)] [[code](https://github.com/rshaojimmy/deepfake-adapter)]
 - LDFnet: Lightweight Dynamic Fusion Network for Face Forgery Detection by Integrating Local Artifacts and Global Texture Information (**TCSVT 2024**) [[paper](https://ieeexplore.ieee.org/document/10163252)]
 - DIFLD: domain invariant feature learning to detect low-quality compressed face forgery images (**Complex & Intelligent Systems 2024**) [[paper](https://link.springer.com/article/10.1007/s40747-023-01160-x)]
+- A Discrepancy Aware Framework for Robust Anomaly Detection (**TII 2024**) [[paper](https://ieeexplore.ieee.org/document/10272031)] [[code](https://github.com/caiyuxuan1120/DAF)]
 
 
 
