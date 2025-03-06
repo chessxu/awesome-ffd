@@ -47,6 +47,8 @@ This is a list of awesome method used in face forgery detection, as well as a co
 - Towards Generalizable Deepfake Detection by Primary Region Regularization (**Preprint 2023**) [[paper](https://arxiv.org/abs/2307.12534)]
 - Locate and Verify: A Two-Stream Network for Improved Deepfake Detection (**Preprint 2023**) [[paper](https://arxiv.org/pdf/2309.11131)] [[code](https://github.com/sccsok/Locate-and-Verify)]
 - DFIL: Deepfake Incremental Learning by Exploiting Domain-invariant Forgery Clues (**ACM MM 2023**) [[paper](https://arxiv.org/pdf/2309.09526)] [[code](https://github.com/DeepFakeIL/DFIL)]
+- AUNet: Learning Relations Between Action Units for Face Forgery Detection (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Bai_AUNet_Learning_Relations_Between_Action_Units_for_Face_Forgery_Detection_CVPR_2023_paper.pdf)]
+- Controllable Guide-Space for Generalizable Face Forgery Detection (**ICCV 2023**) [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Guo_Controllable_Guide-Space_for_Generalizable_Face_Forgery_Detection_ICCV_2023_paper.pdf)]
 
 
 
