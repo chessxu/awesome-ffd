@@ -50,6 +50,7 @@ This is a list of awesome method used in face forgery detection, as well as a co
 - AUNet: Learning Relations Between Action Units for Face Forgery Detection (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Bai_AUNet_Learning_Relations_Between_Action_Units_for_Face_Forgery_Detection_CVPR_2023_paper.pdf)]
 - Controllable Guide-Space for Generalizable Face Forgery Detection (**ICCV 2023**) [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Guo_Controllable_Guide-Space_for_Generalizable_Face_Forgery_Detection_ICCV_2023_paper.pdf)]
 - Beyond the Prior Forgery Knowledge: Mining Critical Clues for General Face Forgery Detection (**TIFS 2023**) [[paper](https://ieeexplore.ieee.org/abstract/document/10315169)] [[code](https://github.com/LoveSiameseCat/CFM)]
+- Adaptive Texture and Spectrum Clue Mining for Generalizable Face Forgery Detection (**TIFS 2023**) [[paper](https://ieeexplore.ieee.org/abstract/document/10315169)]
 
 
 
