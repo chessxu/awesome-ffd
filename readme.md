@@ -31,6 +31,7 @@ This is a list of awesome method used in face forgery detection, as well as a co
 - DIFLD: domain invariant feature learning to detect low-quality compressed face forgery images (**Complex & Intelligent Systems 2024**) [[paper](https://link.springer.com/article/10.1007/s40747-023-01160-x)]
 - A Discrepancy Aware Framework for Robust Anomaly Detection (**TII 2024**) [[paper](https://ieeexplore.ieee.org/document/10272031)] [[code](https://github.com/caiyuxuan1120/DAF)]
 - Exposing the Deception: Uncovering More Forgery Clues for Deepfake Detection (**AAAI 2024**) [[paper](https://arxiv.org/pdf/2403.01786)] [[code](https://github.com/QingyuLiu/Exposing-the-Deception)]
+- Beyond the Prior Forgery Knowledge: Mining Critical Clues for General Face Forgery Detection (**TIFS 2024**) [[paper](https://ieeexplore.ieee.org/abstract/document/10315169)] [[code](https://github.com/LoveSiameseCat/CFM)]
 
 
 
@@ -49,7 +50,6 @@ This is a list of awesome method used in face forgery detection, as well as a co
 - DFIL: Deepfake Incremental Learning by Exploiting Domain-invariant Forgery Clues (**ACM MM 2023**) [[paper](https://arxiv.org/pdf/2309.09526)] [[code](https://github.com/DeepFakeIL/DFIL)]
 - AUNet: Learning Relations Between Action Units for Face Forgery Detection (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Bai_AUNet_Learning_Relations_Between_Action_Units_for_Face_Forgery_Detection_CVPR_2023_paper.pdf)]
 - Controllable Guide-Space for Generalizable Face Forgery Detection (**ICCV 2023**) [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Guo_Controllable_Guide-Space_for_Generalizable_Face_Forgery_Detection_ICCV_2023_paper.pdf)]
-- Beyond the Prior Forgery Knowledge: Mining Critical Clues for General Face Forgery Detection (**TIFS 2023**) [[paper](https://ieeexplore.ieee.org/abstract/document/10315169)] [[code](https://github.com/LoveSiameseCat/CFM)]
 - Adaptive Texture and Spectrum Clue Mining for Generalizable Face Forgery Detection (**TIFS 2023**) [[paper](https://ieeexplore.ieee.org/abstract/document/10315169)]
 
 
