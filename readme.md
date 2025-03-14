@@ -32,6 +32,7 @@ This is a list of awesome method used in face forgery detection, as well as a co
 - A Discrepancy Aware Framework for Robust Anomaly Detection (**TII 2024**) [[paper](https://ieeexplore.ieee.org/document/10272031)] [[code](https://github.com/caiyuxuan1120/DAF)]
 - Exposing the Deception: Uncovering More Forgery Clues for Deepfake Detection (**AAAI 2024**) [[paper](https://arxiv.org/pdf/2403.01786)] [[code](https://github.com/QingyuLiu/Exposing-the-Deception)]
 - Beyond the Prior Forgery Knowledge: Mining Critical Clues for General Face Forgery Detection (**TIFS 2024**) [[paper](https://ieeexplore.ieee.org/abstract/document/10315169)] [[code](https://github.com/LoveSiameseCat/CFM)]
+- Contrastive Learning for DeepFake Classification and Localization via Multi-Label Ranking (**CVPR 2024**) [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Hong_Contrastive_Learning_for_DeepFake_Classification_and_Localization_via_Multi-Label_Ranking_CVPR_2024_paper.pdf)]
 
 
 
