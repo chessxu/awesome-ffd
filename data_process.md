@@ -272,7 +272,10 @@ if __name__ == "__main__":
 ```
 python download-Faceforensics.py <output path> -d all -c c23 -t videos
 ```
-其中，-d代表下载的类型，-c代表下载的压缩成都，-t代表下载是视频。
+其中，```<output path>```代表保存数据集的路径，-d代表下载的类型，-c代表下载的压缩成都，-t代表下载是视频。
+
+为了后续数据集的划分，您可以在[此处](https://github.com/ondyari/FaceForensics/tree/master/dataset/splits)下载json文件
+
 下载完成之后的目录结构如下：
 ```
 datasets
@@ -286,31 +289,34 @@ datasets
          │       └── c23
          │           └── videos
          │               └── *.mp4
-         └── manipulated_sequences
-             ├── Deepfakes
-             │   └── c23
-             │       └── videos
-             │           └── *.mp4
-             ├── Face2Face
-             │   └── c23
-             │       └── videos
-             │           └── *.mp4
-             ├── FaceSwap
-             │   └── c23
-             │       └── videos
-             │           └── *.mp4
-             ├── NeuralTextures
-             │   └── c23
-             │       └── videos
-             │           └── *.mp4
-             ├── FaceShifter
-             │   └── c23
-             │       └── videos
-             │           └── *.mp4
-             └── DeepFakeDetection
-                 └── c23
-                     └── videos
-                        └── *.mp4
+         ├── manipulated_sequences
+         │   ├── Deepfakes
+         │   │   └── c23
+         │   │       └── videos
+         │   │           └── *.mp4
+         │   ├── Face2Face
+         │   │   └── c32
+         │   │       └── videos
+         │   │           └── *.mp4
+         │   ├── FaceSwap
+         │   │   └── c23
+         │   │       └── videos
+         │   │           └── *.mp4
+         │   ├── NeuralTextures
+         │   │   └── c23
+         │   │       └── videos
+         │   │           └── *.mp4
+         │   ├── FaceShifter
+         │   │   └── c23
+         │   │       └── videos
+         │   │           └── *.mp4
+         │   └── DeepFakeDetection
+         │       └── c23
+         │           └── videos
+         │               └── *.mp4
+         ├── train.json
+         ├── val.json
+         └── test.json
 ```
 ## 2,Celeb-DF
 您可以直接根据下面的链接进行下载
@@ -332,3 +338,38 @@ datasets
          └── List_of_testing_videos.txt
     
 ```
+# 二、数据集处理
+①打开./preprocessing/config.yaml,找到```dataset_root_path```参数，在```default```处添加数据集文件夹的实际路径。
+
+②完成之后，您可以运行如下进行数据集的预处理(面部检测、对齐和裁剪)：
+```
+cd preprocessing
+python preprocess.py
+```
+运行上述代码之后，您将会得到frames和landmarks单独的文件夹，以供进一步分析。
+
+③为了简化不同数据集的处理，需要为每个数据集生成JSON文件，以便在训练和测试的过程中进行统一数据加载。同样，您需要为每个数据集在```dataset_root_path```参数的```default```处添加处理后的数据集的实际路径。
+
+④完成之后，您可以运行如下进行数据集的排列(根据训练、测试、验证对其进行分组)：
+```
+cd preprocessing
+python rearrange.py
+```
+
+运行上述代码之后，您将获得./preprocessing/dataset_json/*.json，此JSON文件包括数据路径、标签等。
+
+# 三、训练
+## 1,配置环境
+您可以通过运行以下脚本来配置必要的环境:
+```
+conda create -n DeepfakeBench python=3.7.2
+conda activate DeepfakeBench
+sh install.sh
+```
+install.sh中的```pip install transformers```，这里推荐您使用4.29.1版本的，您可以直接运行如下命令：
+```
+pip install transformers==4.29.1
+```
+## 2,训练
+
+
