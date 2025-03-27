@@ -348,7 +348,7 @@ python preprocess.py
 ```
 运行上述代码之后，您将会得到frames和landmarks单独的文件夹，以供进一步分析。
 
-③为了简化不同数据集的处理，需要为每个数据集生成JSON文件，以便在训练和测试的过程中进行统一数据加载。同样，您需要为每个数据集在```dataset_root_path```参数的```default```处添加处理后的数据集的实际路径。
+③为了简化不同数据集的处理，需要为每个数据集生成JSON文件，以便在训练和测试的过程中进行统一数据加载。同样，您需要为每个数据集在```dataset_root_path```参数的```default```处添加预处理后的数据集的实际路径。
 
 ④完成之后，您可以运行如下进行数据集的排列(根据训练、测试、验证对其进行分组)：
 ```
@@ -366,10 +366,27 @@ conda create -n DeepfakeBench python=3.7.2
 conda activate DeepfakeBench
 sh install.sh
 ```
-install.sh中的```pip install transformers```，这里推荐您使用4.29.1版本的，您可以直接运行如下命令：
+install.sh中的```pip install transformers```，这里推荐您使用4.29.1版本的，此时您可以直接运行如下命令：
 ```
 pip install transformers==4.29.1
 ```
 ## 2,训练
+①如果您不想使用lmdb进行训练，请在train_config.yaml中将lmdb设置为```False```
 
+②注意```abstract_dataset.py```中的load_rgb()方法里的file_path变量，需要将其修改成自己数据集的路径
 
+③您可以进入```training/config/detector```文件夹，选择您要训练的检测器，同时您也可以调整*.yaml中的参数
+
+以上完成之后，可以通过一下命令来训练各种检测器，这里以Xception检测器为例子(已提供骨干网络的预训练权重，这些权重来自ImageNet)：
+```
+python training/train.py --detector_path ./training/config/detector/xception.yaml
+```
+您还可以使用以下命令来调整训练和测试的数据集：
+```
+python training/train.py --detector_path ./training/config/detector/xception.yaml  --train_dataset "FaceForensics++" --test_dataset "Celeb-DF-v1" "Celeb-DF-v2"
+```
+## 3,评估
+如果您只想评估检测器在跨数据集上的结果，那么您可以使用test.py代码进行评估(已提供每个检测的预训练权重，检测器均在FF-c23进行训练)
+```
+python3 training/test.py --detector_path ./training/config/detector/xception.yaml --test_dataset "Celeb-DF-v1" "Celeb-DF-v2" "DFDCP" --weights_path ./training/weights/xception_best.pth
+```
