@@ -18,7 +18,7 @@ This is a list of awesome method used in face forgery detection, as well as a co
 ## Papers
 
 ### 2025
--Forensics Adapter:Adapting CLIP for Generalizable Face Forgery Detection (**CVPR 2025**) [[paper](https://arxiv.org/pdf/2411.19715)] [[code](https://github.com/OUC-VAS/ForensicsAdapter)]
+- Forensics Adapter:Adapting CLIP for Generalizable Face Forgery Detection (**CVPR 2025**) [[paper](https://arxiv.org/pdf/2411.19715)] [[code](https://github.com/OUC-VAS/ForensicsAdapter)]
 
 
 ### 2024
