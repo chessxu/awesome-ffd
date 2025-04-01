@@ -11,7 +11,7 @@ This is a list of awesome method used in face forgery detection, as well as a co
 - On the robustness of face recognition algorithms against attacks and bias (**AAAI 2020**) [[paper](https://arxiv.org/abs/2002.02942)]
 - The creation and detection of deepfakes: A survey (**CSUR 2021**) [[paper](https://dl.acm.org/doi/10.1145/3425780)]
 - Evolving from Single-modal to Multi-modal Facial Deepfake Detection: A Survey (**Preprint 2024**) [[paper](https://arxiv.org/abs/2406.06965)]
-
+- Deepfake Generation and Detection: A Benchmark and Survey (**Preprint 2024**) [[paper](https://arxiv.org/pdf/2403.17881)] [[code](github.com/flyingby/Awesome-Deepfake-Generation-and-Detection)]
 
 
 
@@ -19,6 +19,13 @@ This is a list of awesome method used in face forgery detection, as well as a co
 
 ### 2025
 - Forensics Adapter:Adapting CLIP for Generalizable Face Forgery Detection (**CVPR 2025**) [[paper](https://arxiv.org/pdf/2411.19715)] [[code](https://github.com/OUC-VAS/ForensicsAdapter)]
+- Generalizing Deepfake Video Detection with Plug-and-Play: Video-Level Blending and Spatiotemporal Adapter Tuning (**CVPR 2025**) [[paper](https://arxiv.org/pdf/2408.17065)]
+- Towards More General Video-based Deepfake Detection through Facial Feature Guided Adaptation for Foundation Model (**CVPR 2025**) [[paper](https://arxiv.org/pdf/2404.05583)]
+- d3: Scaling Up Deepfake Detection by Learning from Discrepancy (**CVPR 2025**) [[paper](https://arxiv.org/pdf/2404.04584)]
+- Circumventing shortcuts in audio-visual deepfake detection datasets with unsupervised learning (**CVPR 2025**) [[paper](https://arxiv.org/pdf/2412.00175)]
+- Rethink Visual-language Pretraining for Deepfake Detection: Multi-modal Interpretable Forged Face Detection (**CVPR 2025**) [[paper](https://arxiv.org/pdf/2503.20188)]
+- SIDA: Social Media Image Deepfake Detection, Localization and Explanation with Large Multimodal Model (**CVPR 2025**) [[paper](https://arxiv.org/pdf/2412.04292)]
+- AI-Face: A Million-Scale Demographically Annotated AI-Generated Face Dataset and Fairness Benchmark (**CVPR 2025**) [[paper](https://arxiv.org/pdf/2406.00783)]
 
 
 ### 2024
