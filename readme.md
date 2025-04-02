@@ -19,13 +19,12 @@ This is a list of awesome method used in face forgery detection, as well as a co
 
 ### 2025
 - Forensics Adapter:Adapting CLIP for Generalizable Face Forgery Detection (**CVPR 2025**) [[paper](https://arxiv.org/pdf/2411.19715)] [[code](https://github.com/OUC-VAS/ForensicsAdapter)]
-- Generalizing Deepfake Video Detection with Plug-and-Play: Video-Level Blending and Spatiotemporal Adapter Tuning (**CVPR 2025**) [[paper](https://arxiv.org/pdf/2408.17065)]
-- Towards More General Video-based Deepfake Detection through Facial Feature Guided Adaptation for Foundation Model (**CVPR 2025**) [[paper](https://arxiv.org/pdf/2404.05583)]
-- d3: Scaling Up Deepfake Detection by Learning from Discrepancy (**CVPR 2025**) [[paper](https://arxiv.org/pdf/2404.04584)]
-- Circumventing shortcuts in audio-visual deepfake detection datasets with unsupervised learning (**CVPR 2025**) [[paper](https://arxiv.org/pdf/2412.00175)]
-- Rethink Visual-language Pretraining for Deepfake Detection: Multi-modal Interpretable Forged Face Detection (**CVPR 2025**) [[paper](https://arxiv.org/pdf/2503.20188)]
-- SIDA: Social Media Image Deepfake Detection, Localization and Explanation with Large Multimodal Model (**CVPR 2025**) [[paper](https://arxiv.org/pdf/2412.04292)]
-- AI-Face: A Million-Scale Demographically Annotated AI-Generated Face Dataset and Fairness Benchmark (**CVPR 2025**) [[paper](https://arxiv.org/pdf/2406.00783)]
+- Towards General Visual-Linguistic Face Forgery Detection (**CVPR 2025**) [[paper](https://arxiv.org/pdf/2502.20698)] [[code](https://github.com/skJack/VLFFD)]
+- Towards More General Video-based Deepfake Detection through Facial Feature Guided Adaptation for Foundation Model (**CVPR 2025**) [[paper](https://arxiv.org/abs/2404.05583)]
+- Rethinking Vision-Language Model in Face Forensics: Multi-Modal Interpretable Forged Face Detector [[paper](https://arxiv.org/abs/2503.20188)]
+- Stacking Brick by Brick: Aligned Feature Isolation for Incremental Face Forgery Detection (**CVPR 2025**) [[paper](https://arxiv.org/abs/2411.11396)]
+- Generalizing Deepfake Video Detection with Plug-and-Play: Video-Level Blending and Spatiotemporal Adapter Tuning (**CVPR 2025**) [[paper](https://arxiv.org/abs/2408.17065)]
+
 
 
 ### 2024
