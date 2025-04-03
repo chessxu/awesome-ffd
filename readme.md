@@ -19,8 +19,8 @@ This is a list of awesome method used in face forgery detection, as well as a co
 
 ### 2025
 - Forensics Adapter:Adapting CLIP for Generalizable Face Forgery Detection (**CVPR 2025**) [[paper](https://arxiv.org/pdf/2411.19715)] [[code](https://github.com/OUC-VAS/ForensicsAdapter)]
-- Towards General Visual-Linguistic Face Forgery Detection (**CVPR 2025**) [[paper](https://arxiv.org/pdf/2502.20698)] [[code](https://github.com/skJack/VLFFD)]
 - Towards More General Video-based Deepfake Detection through Facial Feature Guided Adaptation for Foundation Model (**CVPR 2025**) [[paper](https://arxiv.org/abs/2404.05583)]
+- Standing on the Shoulders of Giants: Reprogramming Visual-Language Model forGeneral Deepfake Detection　(**AAAI 2025**) [[paper](https://arxiv.org/abs/2409.02664)]
 - Rethinking Vision-Language Model in Face Forensics: Multi-Modal Interpretable Forged Face Detector [[paper](https://arxiv.org/abs/2503.20188)]
 - Stacking Brick by Brick: Aligned Feature Isolation for Incremental Face Forgery Detection (**CVPR 2025**) [[paper](https://arxiv.org/abs/2411.11396)]
 - Generalizing Deepfake Video Detection with Plug-and-Play: Video-Level Blending and Spatiotemporal Adapter Tuning (**CVPR 2025**) [[paper](https://arxiv.org/abs/2408.17065)]
