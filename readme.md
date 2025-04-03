@@ -20,12 +20,12 @@ This is a list of awesome method used in face forgery detection, as well as a co
 ### 2025
 - Forensics Adapter:Adapting CLIP for Generalizable Face Forgery Detection (**CVPR 2025**) [[paper](https://arxiv.org/pdf/2411.19715)] [[code](https://github.com/OUC-VAS/ForensicsAdapter)]
 - Towards More General Video-based Deepfake Detection through Facial Feature Guided Adaptation for Foundation Model (**CVPR 2025**) [[paper](https://arxiv.org/abs/2404.05583)]
-- Rethinking Vision-Language Model in Face Forensics: Multi-Modal Interpretable Forged Face Detector [[paper](https://arxiv.org/abs/2503.20188)]
 - Generalizing Deepfake Video Detection with Plug-and-Play: Video-Level Blending and Spatiotemporal Adapter Tuning (**CVPR 2025**) [[paper](https://arxiv.org/abs/2408.17065)]
 - D^3: Scaling Up Deepfake Detection by Learning from Discrepancy (**CVPR 2025**) [[paper](https://arxiv.org/abs/2404.04584)]
 -
 - Standing on the Shoulders of Giants: Reprogramming Visual-Language Model forGeneral Deepfake Detection　(**AAAI 2025**) [[paper](https://arxiv.org/abs/2409.02664)]
 - Towards General Visual-Linguistic Face Forgery Detection (**CVPR 2025**) [[paper](https://arxiv.org/abs/2502.20698)]
+- Rethinking Vision-Language Model in Face Forensics: Multi-Modal Interpretable Forged Face Detector [[paper](https://arxiv.org/abs/2503.20188)] [[code](https://github.com/CHELSEA234/M2F2_Det)]
 - ASAP: Advancing Semantic Alignment Promotes Multi-Modal Manipulation Detecting and Grounding (**CVPR 2025**) [[paper](https://arxiv.org/abs/2412.12718)]
 -
 - Stacking Brick by Brick: Aligned Feature Isolation for Incremental Face Forgery Detection (**CVPR 2025**) [[paper](https://arxiv.org/abs/2411.11396)]
