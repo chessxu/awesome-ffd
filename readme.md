@@ -47,6 +47,29 @@ This is a list of awesome method used in face forgery detection, as well as a co
 - Beyond the Prior Forgery Knowledge: Mining Critical Clues for General Face Forgery Detection (**TIFS 2024**) [[paper](https://ieeexplore.ieee.org/abstract/document/10315169)] [[code](https://github.com/LoveSiameseCat/CFM)]
 - Contrastive Learning for DeepFake Classification and Localization via Multi-Label Ranking (**CVPR 2024**) [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Hong_Contrastive_Learning_for_DeepFake_Classification_and_Localization_via_Multi-Label_Ranking_CVPR_2024_paper.pdf)]
 - FreqBlender: Enhancing DeepFake Detection by Blending Frequency Knowledge (**NeurlPS 2024**) [[paper](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2404.13872)]
+- Rethinking the Up-Sampling Operations in CNN-based Generative Network for Generalizable Deepfake Detection [[paper](https://arxiv.org/abs/2312.10461)] [[code](https://github.com/chuangchuangtan/NPR-DeepfakeDetection)]
+- Learning Natural Consistency Representation for Face Forgery Video Detection (**ECCV 2024**) [[paper](https://arxiv.org/abs/2407.10550)]
+- Temporal Diversified Self-Contrastive Learning for Generalized Face Forgery Detection (**TCSVT 2024**) [[paper](https://ieeexplore.ieee.org/document/10620229)]
+- Boosting Deepfake Detection Generalizability via Expansive Learning and Confidence Judgement (**TCSVT 2024**) [[paper](https://ieeexplore.ieee.org/abstract/document/10684474)]
+- Artifacts-Disentangled Adversarial Learning for Deepfake Detection (**TCSVT 2024**) [[paper](https://ieeexplore.ieee.org/abstract/document/9931753/)]
+- Inspector for Face Forgery Detection: Defending Against Adversarial Attacks From Coarse to Fine (**TIP 2024**) [[paper](https://ieeexplore.ieee.org/document/10620380)] [[code](https://github.com/xarryon/Inspector)]
+- Using GNN to Improve Generalization Capability of the Models for Deepfake Detection (**TIFS 2024**) [[paper](https://ieeexplore.ieee.org/abstract/document/10654318)]
+- Test-time Forgery Detection with Spatial-Frequency Prompt Learning (**IJCV 2024**) [[paper](https://link.springer.com/article/10.1007/s11263-024-02208-2)]
+- Using Graph Neural Networks to Improve Generalization Capability of the Models for Deepfake Detection (**TIFS 2024**) [[paper](https://ieeexplore.ieee.org/abstract/document/10654318)]
+- Fine-grained Open-set Deepfake Detection via Unsupervised Domain Adaptation (**TIFS 2024**) [[paper](https://ieeexplore.ieee.org/abstract/document/10614208/)]
+- DomainForensics: Exposing Face Forgery across Domains via Bi-directional Adaptation (**TIFS 2024**) [[paper](https://ieeexplore.ieee.org/abstract/document/10601589)]
+- SA3WT: Adaptive Wavelet-Based Transformer with Self-Paced Auto Augmentation for Face Forgery Detection (**IJCV 2024**) [[paper](https://link.springer.com/article/10.1007/s11263-024-02091-x)]
+- Fully Unsupervised Deepfake Video Detection via Enhanced Contrastive Learning (**TPAMI 2024**) [[paper](https://ieeexplore.ieee.org/abstract/document/10411047)] [[code](https://github.com/bestalllen/Unsupervised_DF_Detection/)]
+- WATCHER: Wavelet-Guided Texture-Content Hierarchical Relation Learning for Deepfake Detection (**IJCV 2024**) [[paper](https://link.springer.com/article/10.1007/s11263-024-02116-5)]
+- Face Forgery Detection via Multi-Feature Fusion and Local Enhancement (**TCSVT 2024**) [[paper](https://ieeexplore.ieee.org/abstract/document/10504924)] [[code](https://github.com/jhchen1998/DeepfakeDetection)]
+- Improving Generalization of Deepfake Detectors by Imposing Gradient Regularization (**TIFS 2024**) [[paper](https://ieeexplore.ieee.org/abstract/document/10516609)]
+- Uncertainty-aware Hierarchical Labeling for Face Forgery Detection (**Pattern Recognition**) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320324002772)]
+- Learning to Discover Forgery Cues for Face Forgery Detection (**TIFS 2024**) [[paper](https://ieeexplore.ieee.org/abstract/document/10458687)]
+- 
+- Forgery-aware Adaptive Transformer for Generalizable Synthetic Image Detection (**CVPR 2024**) [[paper](https://link.zhihu.com/?target=https%3A//openaccess.thecvf.com/content/CVPR2024/papers/Liu_Forgery-aware_Adaptive_Transformer_for_Generalizable_Synthetic_Image_Detection_CVPR_2024_paper.pdf)]
+- 
+- Exploiting Facial Relationships and Feature Aggregation for Multi-Face Forgery Detection (**TIFS 2024**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10689267)]
+- Mixture-of-Noises Enhanced Forgery-AwarePredictor for Multi-Face Manipulation Detectionand Localiz (**Preprint 2024**) [[paper](https://arxiv.org/pdf/2408.02306)]
 
 
 
