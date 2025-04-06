@@ -26,7 +26,7 @@ This is a list of awesome method used in face forgery detection, as well as a co
 -
 - Standing on the Shoulders of Giants: Reprogramming Visual-Language Model forGeneral Deepfake Detection　(**AAAI 2025**) [[paper](https://arxiv.org/abs/2409.02664)]
 - Towards General Visual-Linguistic Face Forgery Detection (**CVPR 2025**) [[paper](https://arxiv.org/abs/2502.20698)]
-- Rethinking Vision-Language Model in Face Forensics: Multi-Modal Interpretable Forged Face Detector [[paper](https://arxiv.org/abs/2503.20188)] [[code](https://github.com/CHELSEA234/M2F2_Det)]
+- Rethinking Vision-Language Model in Face Forensics: Multi-Modal Interpretable Forged Face Detector (**CVPR 2025**) [[paper](https://arxiv.org/abs/2503.20188)] [[code](https://github.com/CHELSEA234/M2F2_Det)]
 - ASAP: Advancing Semantic Alignment Promotes Multi-Modal Manipulation Detecting and Grounding (**CVPR 2025**) [[paper](https://arxiv.org/abs/2412.12718)]
 -
 - Stacking Brick by Brick: Aligned Feature Isolation for Incremental Face Forgery Detection (**CVPR 2025**) [[paper](https://arxiv.org/abs/2411.11396)]
@@ -45,6 +45,8 @@ This is a list of awesome method used in face forgery detection, as well as a co
 - Preserving Fairness Generalization in Deepfake Detection (**CVPR 2024**) [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Lin_Preserving_Fairness_Generalization_in_Deepfake_Detection_CVPR_2024_paper.pdf)] [[code](https://github.com/Purdue-M2/Fairness-Generalization)]
 - Dynamic Graph Learning with Content-guided Spatial-Frequency Relation Reasoning for Deepfake Detection (**CVPR 2024**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Dynamic_Graph_Learning_With_Content-Guided_Spatial-Frequency_Relation_Reasoning_for_Deepfake_CVPR_2023_paper.pdf)]
 - Exploiting Style Latent Flows for Generalizing Deepfake Video Detection (**CVPR 2024**) [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Choi_Exploiting_Style_Latent_Flows_for_Generalizing_Deepfake_Video_Detection_CVPR_2024_paper.pdf)]
+- Rethinking the Up-Sampling Operations in CNN-based Generative Network for Generalizable Deepfake Detection (**CVPR 2024**) [[paper](https://arxiv.org/abs/2312.10461)] [[code](https://github.com/chuangchuangtan/NPR-DeepfakeDetection)]
+- Faster Than Lies: Real-time Deepfake Detection using Binary Neural Networks (**CVPR 2024**) [[paper](https://openaccess.thecvf.com/content/CVPR2024W/DFAD/html/Lanzino_Faster_Than_Lies_Real-time_Deepfake_Detection_using_Binary_Neural_Networks_CVPRW_2024_paper.html?utm_source=chatgpt.com)]
 - DeepFake-Adapter: Dual-Level Adapter for DeepFake Detection (**IJCV 2024**) [[paper](https://arxiv.org/pdf/2306.00863v1)] [[code](https://github.com/rshaojimmy/deepfake-adapter)]
 - LDFnet: Lightweight Dynamic Fusion Network for Face Forgery Detection by Integrating Local Artifacts and Global Texture Information (**TCSVT 2024**) [[paper](https://ieeexplore.ieee.org/document/10163252)]
 - DIFLD: domain invariant feature learning to detect low-quality compressed face forgery images (**Complex & Intelligent Systems 2024**) [[paper](https://link.springer.com/article/10.1007/s40747-023-01160-x)]
@@ -52,7 +54,6 @@ This is a list of awesome method used in face forgery detection, as well as a co
 - Exposing the Deception: Uncovering More Forgery Clues for Deepfake Detection (**AAAI 2024**) [[paper](https://arxiv.org/pdf/2403.01786)] [[code](https://github.com/QingyuLiu/Exposing-the-Deception)]
 - Beyond the Prior Forgery Knowledge: Mining Critical Clues for General Face Forgery Detection (**TIFS 2024**) [[paper](https://ieeexplore.ieee.org/abstract/document/10315169)] [[code](https://github.com/LoveSiameseCat/CFM)]
 - FreqBlender: Enhancing DeepFake Detection by Blending Frequency Knowledge (**NeurlPS 2024**) [[paper](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2404.13872)]
-- Rethinking the Up-Sampling Operations in CNN-based Generative Network for Generalizable Deepfake Detection [[paper](https://arxiv.org/abs/2312.10461)] [[code](https://github.com/chuangchuangtan/NPR-DeepfakeDetection)]
 - Learning Natural Consistency Representation for Face Forgery Video Detection (**ECCV 2024**) [[paper](https://arxiv.org/abs/2407.10550)]
 - Temporal Diversified Self-Contrastive Learning for Generalized Face Forgery Detection (**TCSVT 2024**) [[paper](https://ieeexplore.ieee.org/document/10620229)]
 - Boosting Deepfake Detection Generalizability via Expansive Learning and Confidence Judgement (**TCSVT 2024**) [[paper](https://ieeexplore.ieee.org/abstract/document/10684474)]
@@ -73,6 +74,7 @@ This is a list of awesome method used in face forgery detection, as well as a co
 - 
 - Forgery-aware Adaptive Transformer for Generalizable Synthetic Image Detection (**CVPR 2024**) [[paper](https://link.zhihu.com/?target=https%3A//openaccess.thecvf.com/content/CVPR2024/papers/Liu_Forgery-aware_Adaptive_Transformer_for_Generalizable_Synthetic_Image_Detection_CVPR_2024_paper.pdf)]
 - Detecting and Grounding Multi-Modal Media Manipulation (**CVPR 2024**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Shao_Detecting_and_Grounding_Multi-Modal_Media_Manipulation_CVPR_2023_paper.pdf)] [[code](https://github.com/rshaojimmy/MultiModal-DeepFake)]
+- AVFF: Audio-Visual Feature Fusion for Video Deepfake Detection (**CVPR 2024**) [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Oorloff_AVFF_Audio-Visual_Feature_Fusion_for_Video_Deepfake_Detection_CVPR_2024_paper.html)]
 - 
 - Exploiting Facial Relationships and Feature Aggregation for Multi-Face Forgery Detection (**TIFS 2024**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10689267)]
 - Mixture-of-Noises Enhanced Forgery-AwarePredictor for Multi-Face Manipulation Detectionand Localiz (**Preprint 2024**) [[paper](https://arxiv.org/pdf/2408.02306)]
@@ -87,15 +89,17 @@ This is a list of awesome method used in face forgery detection, as well as a co
 - Learning on Gradients: Generalized Artifacts Representation for GAN-Generated Images Detection (**CVPR 2023**) [[paper](https://ieeexplore.ieee.org/document/10203908)] [[code](https://github.com/chuangchuangtan/LGrad)]
 - AltFreezing for More General Video Face Forgery Detection (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_AltFreezing_for_More_General_Video_Face_Forgery_Detection_CVPR_2023_paper.pdf)] [[code](https://github.com/ZhendongWang6/AltFreezing)]
 - AUNet: Learning Relations Between Action Units for Face Forgery Detection (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Bai_AUNet_Learning_Relations_Between_Action_Units_for_Face_Forgery_Detection_CVPR_2023_paper.pdf)]
+- MARLIN: Masked Autoencoder for Facial Video Representation LearnINg (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Cai_MARLIN_Masked_Autoencoder_for_Facial_Video_Representation_LearnINg_CVPR_2023_paper.pdf)] [[code](https://github.com/ControlNet/MARLIN)]
 - UCF: Uncovering Common Features for Generalizable Deepfake Detection (**ICCV 2023**) [[paper](https://arxiv.org/pdf/2304.13949v1)] [[code](https://github.com/SCLBD/DeepfakeBench)]
 - Learning Patch-Channel Correspondence for Interpretable Face Forgery Detection (**TIP 2023**) [[paper](https://ieeexplore.ieee.org/document/10050168)] [[code](https://github.com/Jae35/IFFD)]
 - FCD-Net: Learning to Detect Multiple Types of Homologous Deepfake Face Images (**TIFS 2023**) [[paper](https://ieeexplore.ieee.org/document/10106503)]
 - Multi-level feature disentanglement network for cross-dataset face forgery detection (**Image and Vision Computing 2023**) [[paper](https://www.sciencedirect.com/science/article/pii/S0262885623000604)]
 - Towards Generalizable Deepfake Detection by Primary Region Regularization (**Preprint 2023**) [[paper](https://arxiv.org/abs/2307.12534)]
-- Locate and Verify: A Two-Stream Network for Improved Deepfake Detection (**Preprint 2023**) [[paper](https://arxiv.org/pdf/2309.11131)] [[code](https://github.com/sccsok/Locate-and-Verify)]
+- Locate and Verify: A Two-Stream Network for Improved Deepfake Detection (**ACM MM 2023**) [[paper](https://arxiv.org/pdf/2309.11131)] [[code](https://github.com/sccsok/Locate-and-Verify)]
 - DFIL: Deepfake Incremental Learning by Exploiting Domain-invariant Forgery Clues (**ACM MM 2023**) [[paper](https://arxiv.org/pdf/2309.09526)] [[code](https://github.com/DeepFakeIL/DFIL)]
 - Controllable Guide-Space for Generalizable Face Forgery Detection (**ICCV 2023**) [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Guo_Controllable_Guide-Space_for_Generalizable_Face_Forgery_Detection_ICCV_2023_paper.pdf)]
 - Adaptive Texture and Spectrum Clue Mining for Generalizable Face Forgery Detection (**TIFS 2023**) [[paper](https://ieeexplore.ieee.org/abstract/document/10315169)]
+- Learning Features of Intra-Consistency and Inter-Diversity: Keys Toward Generalizable Deepfake Detection (**TCSVT 2023**) [[paper](https://ieeexplore.ieee.org/abstract/document/9903059)]
 - 
 - Self-Supervised Video Forensics by Audio-Visual Anomaly Detection (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Feng_Self-Supervised_Video_Forensics_by_Audio-Visual_Anomaly_Detection_CVPR_2023_paper.pdf)] [[code](https://github.com/cfeng16/audio-visual-forensics)]
 
