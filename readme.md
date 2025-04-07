@@ -27,6 +27,9 @@ This is a list of awesome method used in face forgery detection, as well as a co
 - Towards General Visual-Linguistic Face Forgery Detection (**CVPR 2025**) [[paper](https://arxiv.org/abs/2502.20698)]
 - Rethinking Vision-Language Model in Face Forensics: Multi-Modal Interpretable Forged Face Detector (**CVPR 2025**) [[paper](https://arxiv.org/abs/2503.20188)] [[code](https://github.com/CHELSEA234/M2F2_Det)]
 - ASAP: Advancing Semantic Alignment Promotes Multi-Modal Manipulation Detecting and Grounding (**CVPR 2025**) [[paper](https://arxiv.org/abs/2412.12718)]
+- Circumventing shortcuts in audio-visual deepfake detection datasets with unsupervised learning (**CVPR 2025**) [[paper](https://arxiv.org/abs/2412.00175)]
+- Standing on the Shoulders of Giants: Reprogramming Visual-Language Model forGeneral Deepfake Detection　(**AAAI 2025**) [[paper](https://arxiv.org/abs/2409.02664)] [[code](https://github.com/simrandysanic/Image-DeepFake-Detection-using-RepDFD)]
+- Region-Based Optimization in Continual Learning for Audio Deepfake Detection (**AAAI 2025**) [[paper](https://arxiv.org/abs/2412.11551)] [[code](https://github.com/cyjie429/RegO)]
 -
 - Stacking Brick by Brick: Aligned Feature Isolation for Incremental Face Forgery Detection (**CVPR 2025**) [[paper](https://arxiv.org/abs/2411.11396)]
 
@@ -74,7 +77,6 @@ This is a list of awesome method used in face forgery detection, as well as a co
 - Forgery-aware Adaptive Transformer for Generalizable Synthetic Image Detection (**CVPR 2024**) [[paper](https://link.zhihu.com/?target=https%3A//openaccess.thecvf.com/content/CVPR2024/papers/Liu_Forgery-aware_Adaptive_Transformer_for_Generalizable_Synthetic_Image_Detection_CVPR_2024_paper.pdf)]
 - Detecting and Grounding Multi-Modal Media Manipulation (**CVPR 2024**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Shao_Detecting_and_Grounding_Multi-Modal_Media_Manipulation_CVPR_2023_paper.pdf)] [[code](https://github.com/rshaojimmy/MultiModal-DeepFake)]
 - AVFF: Audio-Visual Feature Fusion for Video Deepfake Detection (**CVPR 2024**) [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Oorloff_AVFF_Audio-Visual_Feature_Fusion_for_Video_Deepfake_Detection_CVPR_2024_paper.html)]
-- Standing on the Shoulders of Giants: Reprogramming Visual-Language Model forGeneral Deepfake Detection　(**Preprint 2024**) [[paper](https://arxiv.org/abs/2409.02664)]
 - 
 - Exploiting Facial Relationships and Feature Aggregation for Multi-Face Forgery Detection (**TIFS 2024**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10689267)]
 - Mixture-of-Noises Enhanced Forgery-AwarePredictor for Multi-Face Manipulation Detectionand Localiz (**Preprint 2024**) [[paper](https://arxiv.org/pdf/2408.02306)]
