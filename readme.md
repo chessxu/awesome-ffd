@@ -23,14 +23,16 @@ This is a list of awesome method used in face forgery detection, as well as a co
 - Generalizing Deepfake Video Detection with Plug-and-Play: Video-Level Blending and Spatiotemporal Adapter Tuning (**CVPR 2025**) [[paper](https://arxiv.org/abs/2408.17065)]
 - D^3: Scaling Up Deepfake Detection by Learning from Discrepancy (**CVPR 2025**) [[paper](https://arxiv.org/abs/2404.04584)] [[code](https://github.com/BigAandSmallq/D3)]
 - FSFM: A Generalizable Face Security Foundation Model via Self-Supervised Facial Representation Learning (**CVPR 2025**) [[paper](https://arxiv.org/pdf/2412.12032)] [[code](https://github.com/wolo-wolo/FSFM)]
--
+- SIDA: Social Media Image Deepfake Detection, Localization and Explanation with Large Multimodal Model (**CVPR 2025**) [[paper](https://arxiv.org/abs/2412.04292)] [[code](https://github.com/hzlsaber/SIDA)]
+- ODDN: Addressing Unpaired Data Challenges in Open-World Deepfake Detection on Online Social Networks (**AAAI 2025**) [[paper](https://arxiv.org/abs/2410.18687)] [[code](https://github.com/ManyiLee/Open-world-Deepfake-Detection-Network)]
+#### Multi-Modal
 - Towards General Visual-Linguistic Face Forgery Detection (**CVPR 2025**) [[paper](https://arxiv.org/abs/2502.20698)]
 - Rethinking Vision-Language Model in Face Forensics: Multi-Modal Interpretable Forged Face Detector (**CVPR 2025**) [[paper](https://arxiv.org/abs/2503.20188)] [[code](https://github.com/CHELSEA234/M2F2_Det)]
 - ASAP: Advancing Semantic Alignment Promotes Multi-Modal Manipulation Detecting and Grounding (**CVPR 2025**) [[paper](https://arxiv.org/abs/2412.12718)]
 - Circumventing shortcuts in audio-visual deepfake detection datasets with unsupervised learning (**CVPR 2025**) [[paper](https://arxiv.org/abs/2412.00175)]
 - Standing on the Shoulders of Giants: Reprogramming Visual-Language Model forGeneral Deepfake Detection　(**AAAI 2025**) [[paper](https://arxiv.org/abs/2409.02664)] [[code](https://github.com/simrandysanic/Image-DeepFake-Detection-using-RepDFD)]
 - Region-Based Optimization in Continual Learning for Audio Deepfake Detection (**AAAI 2025**) [[paper](https://arxiv.org/abs/2412.11551)] [[code](https://github.com/cyjie429/RegO)]
--
+#### Incremental Learning
 - Stacking Brick by Brick: Aligned Feature Isolation for Incremental Face Forgery Detection (**CVPR 2025**) [[paper](https://arxiv.org/abs/2411.11396)]
 
 
@@ -73,11 +75,11 @@ This is a list of awesome method used in face forgery detection, as well as a co
 - Improving Generalization of Deepfake Detectors by Imposing Gradient Regularization (**TIFS 2024**) [[paper](https://ieeexplore.ieee.org/abstract/document/10516609)]
 - Uncertainty-aware Hierarchical Labeling for Face Forgery Detection (**Pattern Recognition**) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320324002772)]
 - Learning to Discover Forgery Cues for Face Forgery Detection (**TIFS 2024**) [[paper](https://ieeexplore.ieee.org/abstract/document/10458687)]
-- 
+#### Multi-Modal
 - Forgery-aware Adaptive Transformer for Generalizable Synthetic Image Detection (**CVPR 2024**) [[paper](https://link.zhihu.com/?target=https%3A//openaccess.thecvf.com/content/CVPR2024/papers/Liu_Forgery-aware_Adaptive_Transformer_for_Generalizable_Synthetic_Image_Detection_CVPR_2024_paper.pdf)]
 - Detecting and Grounding Multi-Modal Media Manipulation (**CVPR 2024**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Shao_Detecting_and_Grounding_Multi-Modal_Media_Manipulation_CVPR_2023_paper.pdf)] [[code](https://github.com/rshaojimmy/MultiModal-DeepFake)]
 - AVFF: Audio-Visual Feature Fusion for Video Deepfake Detection (**CVPR 2024**) [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Oorloff_AVFF_Audio-Visual_Feature_Fusion_for_Video_Deepfake_Detection_CVPR_2024_paper.html)]
-- 
+#### Multi-Face Detection
 - Exploiting Facial Relationships and Feature Aggregation for Multi-Face Forgery Detection (**TIFS 2024**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10689267)]
 - Mixture-of-Noises Enhanced Forgery-AwarePredictor for Multi-Face Manipulation Detectionand Localiz (**Preprint 2024**) [[paper](https://arxiv.org/pdf/2408.02306)]
 
